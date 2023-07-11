@@ -167,4 +167,35 @@ header{
     width: 220px;
     height: 250px;
 }
-
+/*section-6 style*/
+.banner-container{
+    background-image: url('./Flower Asset/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:1000px;
+    height: 250px;
+    margin: 130px 120px; 
+}
+.container-title{
+    text-align: center;
+    padding-top: 50px;
+}
+.container-description{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.center-item{
+    text-align: center;
+ 
+}
+input{
+    border-radius: 8px;
+    width: 360px;
+    height: 30px;
+    border: 0;
+}
+.input-row{
+    padding: 8px 12px;
+}
+    
