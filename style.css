@@ -118,23 +118,7 @@ header{
     text-decoration: underline; 
 }
 /*main section-3 style*/
-.delivery-container{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    gap: 30px;
-    margin: 100px 160px 0px 160px;
-    border-radius: 8px;
-    background: rgba(39, 39, 39, 0.05);
-    padding: 80px 100px;
-}
-.delivery-img{
-    margin-left: 35px;
-}
-.delivery-title{
-    color: #272727;
-    margin-left: 10px;
-}
+
 /*main section-4 style*/
 .off-style{
     color: #E55473;;
@@ -198,4 +182,22 @@ input{
 .input-row{
     padding: 8px 12px;
 }
-    
+footer{
+text-align: center;
+background-color: rgb(3, 3, 57);
+}
+.footer-container{
+    color: white;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.footer-title{
+    padding-bottom: 8px;
+}
+.footer-description{
+    font-size: 12px;
+}
+.copyright{
+    font-size: 10px;
+    color:gray;
+}
