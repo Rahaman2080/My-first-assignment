@@ -1,0 +1,119 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family:'Lato', sans-serif;
+    font-family:'Open Sans', sans-serif;
+}
+/*header style*/
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:  rgba(229, 84, 115, 0.10);
+}
+.header-content{
+    margin: 50px 50px;
+}
+.header-title{
+    color: #272727;
+    margin-right: 50px;
+    margin-left:50px ; 
+    margin-bottom: 5px;
+}
+.header-img{
+    width:500px;
+    margin: 50px 100px 0px 10px;
+}
+.header-paragraph{
+    color: #272727;
+    margin-right: 50px;
+    margin-left:50px ; 
+    margin-bottom: 5px;
+}
+.btn-primary{
+    padding: 10px 20px;
+    color:white;
+    background: deeppink;
+    margin-right: 50px;
+    margin-left:50px ; 
+    margin-bottom: 50px;
+    border: 0;
+    border-radius: 8px;
+
+}
+/*main section-1 style*/
+.section-1{
+    text-align: center;
+    margin: 100px 240px 0px 240px;
+}
+.section-1-title{
+    margin:0px 0px 8px 0px;
+}
+.section-1-para{
+ color: #272727;
+ margin: 15px 0px 0px 0px;
+ font-size: 12px;
+ 
+}
+/*main section-2 style*/
+.box-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 24px;
+    margin: 50px 160px 0px 160px;
+
+}
+
+.box-1{
+    width:300PX;
+    height: 350PX;
+    background-color: rgba(167, 33, 98, 0.15);
+    position: relative;
+    border-radius: 300px 300px 0px 0px;
+    align-items: center;
+}
+.box-1 img{
+    position: absolute;
+    bottom: 0;
+    padding: 30px 40px 0px;
+    text-align: center;
+    width: 80%;
+}
+.box-2{
+    width:300PX;
+    height: 350PX;
+    background-color: rgba(5, 151, 160, 0.15);
+    position: relative;
+    border-radius: 300px 300px 0px 0px;
+    align-items: center;
+}
+.box-2 img{
+    position: absolute;
+    bottom: 0;
+    padding: 30px 40px 0px;
+    text-align: center;
+    width: 80%;
+}
+.box-3{
+    width:300PX;
+    height: 350PX;
+    background-color: rgba(71, 125, 17, 0.15);
+    position: relative;
+    border-radius: 300px 300px 0px 0px;
+    align-items: center;
+}
+.box-3 img{
+    position: absolute;
+    bottom: 0;
+    padding: 30px 40px 0px;
+    text-align: center;
+    width: 80%;
+}
+.flower-title{
+    text-align: center;
+    padding: 10px;
+    text-decoration: underline; 
+}
+/*main section-3 style*/
+
