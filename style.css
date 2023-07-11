@@ -157,3 +157,14 @@ header{
 .deal-img{
     width: 50%;
 }
+.state-flowers{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 24px;
+    margin: 50px 240px 0px 240px;
+}
+.flower-width{
+    width: 220px;
+    height: 250px;
+}
+
